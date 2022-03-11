@@ -1,0 +1,8 @@
+Hola equipo de Churrasco.Digital! 
+Espero que esten muy bien!
+Tengo resuelto el 70% del challenge, no pude realizar la parte del login con su BD
+sin embargo, con una BD de prueba que arme yo a nivel local si pude, igualmente no me funciona al 100%, dira que
+me funciona al 90% porque no logre hacer la autenticacion con los tokens, los genero, pero tengo algun error que no
+pude encontrar.
+Les mando solo la parte de Productos y ya que si le pongo el resto no compila y tira errores.
+Desde ya les agradezco el tiempo! Saludos
